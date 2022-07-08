@@ -1,10 +1,1 @@
-{	
-	"titlex":-150,
-	"titley":-100,
-	"startx":100,
-	"starty":576,
-	"gfx":512,
-	"gfy":40,
-	"backgroundSprite":"",
-	"bpm":102
-}
+{"backgroundSprite":"NewTitleMenuBG","bpm":82.5,"gfscale":1,"gfx":5120,"gfy":4000,"startscale":1,"startx":150,"starty":596,"titlex":0,"titley":-200}
